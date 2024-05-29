@@ -19,7 +19,7 @@ We welcome contributions from the community to help keep our blacklist comprehen
    Clone your forked repository to your local machine:
 
    ```
-   https://github.com/dev-spider/spider-blacklisted-domain.git
+   git clone https://github.com/dev-spider/spider-blacklisted-domain.git
    cd spider-blacklisted-domain
    ```
 
